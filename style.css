@@ -1,37 +1,38 @@
 body{
-padding-left: 15%;
-padding-right: 15%;
-background-image: url("paper.gif");
-}
-h1,h2,h3{
-text-align: center;
-color: #1e3a20;
-}
-.centered{
-text-align: center;
-}
-.image-right{
-width: 175px;
-length: 205px;
-float: right;
-}
-.image-left{
-width: 175px;
+  padding-left: 15%;
+  padding-right: 15%;
+  background-image: url("paper.gif");
+  }
+  h1,h2,h3{
+  text-align: center;
+  color: #1e3a20;
+  }
+  .centered{
+  text-align: center;
+  }
+  .image-right{
+  width: 175px;
   length: 205px;
-  float: left;
-}
-.border{
-  border-bottom: 3px solid black;
+  float: right;
+  }
+  .image-left{
+  width: 175px;
+    length: 205px;
+    float: left;
+  }
+  .border{
+    border-bottom: 3px solid black;
+    border-top: 4px double black;
+  }
+  .mid-borders{
   border-top: 4px double black;
-}
-.mid-borders{
-border-top: 4px double black;
-}
-.top-border{
-border-bottom: 4px double black;
-  border-top: 3px solid black;
-}
-.column{
-column-count: 4;
-  column-gap: 40px;
-}
+  }
+  .top-border{
+  border-bottom: 4px double black;
+    border-top: 3px solid black;
+  }
+  .column{
+  column-count: 4;
+    column-gap: 40px;
+  }
+  
