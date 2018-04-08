@@ -1,7 +1,8 @@
 body{
   padding-left: 15%;
   padding-right: 15%;
-  background-image: url("paper.gif");
+  background: url("backgroundII.jpg") no-repeat;
+  background-size: 100%;
   }
   h1,h2,h3{
   text-align: center;
@@ -12,13 +13,13 @@ body{
   }
   .image-right{
   width: 175px;
-  length: 205px;
-  float: right;
+  height: 205px;
+  float: right
   }
   .image-left{
   width: 175px;
-    length: 205px;
-    float: left;
+  height:  205px;
+  float: left;
   }
   .border{
     border-bottom: 3px solid black;
@@ -34,5 +35,11 @@ body{
   .column{
   column-count: 4;
     column-gap: 40px;
+  }
+  .inner-background{
+    background: url("backround.jpg") no-repeat;
+    background-size: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
   }
   
