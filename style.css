@@ -19,3 +19,6 @@ float: right;
   border-bottom: 3px solid black;
   border-top: 4px double black;
 }
+.mid-borders{
+border-top: 4px double black;
+}
