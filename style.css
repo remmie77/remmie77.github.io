@@ -1,0 +1,21 @@
+body{
+padding-left: 15%;
+padding-right: 15%;
+background-color: rgb(114, 167, 129);
+}
+h1,h2,h3{
+text-align: center;
+color: #1e3a20;
+}
+.centered{
+text-align: center;
+}
+.image-size{
+width: 175px;
+length: 200px;
+float: right;
+}
+.border{
+  border-bottom: 3px solid black;
+  border-top: 4px double black;
+}
