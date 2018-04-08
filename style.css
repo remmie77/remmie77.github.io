@@ -33,4 +33,5 @@ border-bottom: 4px double black;
 }
 .column{
 column-count: 4;
+  column-gap: 40px;
 }
