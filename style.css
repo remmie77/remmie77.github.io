@@ -12,8 +12,13 @@ text-align: center;
 }
 .image-right{
 width: 175px;
-length: 215px;
+length: 205px;
 float: right;
+}
+.image-left{
+width: 175px;
+  length: 205px;
+  float: left;
 }
 .border{
   border-bottom: 3px solid black;
