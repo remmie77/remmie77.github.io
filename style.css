@@ -22,3 +22,7 @@ float: right;
 .mid-borders{
 border-top: 4px double black;
 }
+.top-border{
+border-bottom: 4px double black;
+  border-top: 3px solid black;
+}
